@@ -9,3 +9,6 @@ Benefits:
 Targeted Job Search: Identify jobs that best suit your skills and career aspirations.
 Informed Decision Making: Gain valuable insights into specific job requirements and trends.
 Market Awareness: Stay up-to-date on the evolving job market landscape.
+
+Link of the Project:
+https://lucky-alfajores-2e06c3.netlify.app/
